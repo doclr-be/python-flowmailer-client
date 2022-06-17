@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='doclr_flowmailer_client',
-    version='0.0.1',
+    version='0.0.2',
     author='Doclr',
     author_email='info@doclr.be',
     description='Flowmailer client for sending transactional emails',
