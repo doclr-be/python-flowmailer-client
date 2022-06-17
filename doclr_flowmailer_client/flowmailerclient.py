@@ -1,6 +1,6 @@
-from flowmailerauthclient import FlowMailerAuthClient
-from flowmailermail import FlowMailerMail
-from flowmailersendclient import FlowMailerSendClient
+from .flowmailerauthclient import FlowMailerAuthClient
+from .flowmailermail import FlowMailerMail
+from .flowmailersendclient import FlowMailerSendClient
 
 
 class FlowMailerClient:

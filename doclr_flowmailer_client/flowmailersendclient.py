@@ -1,7 +1,7 @@
 import json
 import requests
 
-from flowmailermail import FlowMailerMail
+from .flowmailermail import FlowMailerMail
 
 
 class FlowMailerSendClient:
